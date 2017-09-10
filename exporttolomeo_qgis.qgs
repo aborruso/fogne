@@ -1,0 +1,1052 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="2.18.9">
+  <title></title>
+  <autotransaction active="0"/>
+  <evaluateDefaultValues active="0"/>
+  <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
+    <customproperties/>
+    <layer-tree-group expanded="0" checked="Qt::Unchecked" name="Elementi della Carta Tecnica Regionale">
+      <customproperties/>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_autostrade97836" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_autostrade&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Autostrade">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_ferrovie79645" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ferrovie&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Ferrovie">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_aree_urbanizzate31962" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_aree_urbanizzate&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Aree urbanizzate">
+        <customproperties/>
+      </layer-tree-layer>
+    </layer-tree-group>
+    <layer-tree-group expanded="1" checked="Qt::Unchecked" name="Cartografia">
+      <customproperties/>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_ctr10k_toponomastica36557" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr10k_toponomastica&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="CTR 1:10.000 toponomastica">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_ctr10k_quote87127" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr10k_quote&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="CTR 1:10.000 quote">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_ctr10k_orografia36770" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr10k_orografia&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="CTR 1:10.000 orografia">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_ctr10k_elem_lineari18837" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr10k_elem_lineari&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="CTR 1:10.000 elementi lineari">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_ctr2k_toponomastica42219" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr2k_toponomastica&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="CTR 1:2.000 toponomastica">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_ctr1k_centro_antico99618" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr1k_centro_antico&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Centro antico">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_ctr2k_edifici56962" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr2k_edifici&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="CTR 1:2.000 edifici">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_ctr2k_edifici_esterni25871" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr2k_edifici_esterni&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="CTR 1:2.000 edifici esterni al centro antico">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_ctr2k_orografia21797" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr2k_orografia&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="CTR 1:2.000 orografia">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_ctr2k_elem_lineari23498" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr2k_elem_lineari&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="CTR 1:2.000 elementi lineari">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_ru:base_ctr2k_elem_lineari_esterni49812" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr2k_elem_lineari_esterni&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="CTR 1:2.000 elementi lineari esterni al centro antico">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:stradario_civici_definitivi11383" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:stradario_civici_definitivi&amp;styles=ru_base_civici&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Numeri civici defiitivi">
+        <customproperties/>
+      </layer-tree-layer>
+    </layer-tree-group>
+    <layer-tree-group expanded="1" checked="Qt::Checked" name="Rete fognature">
+      <customproperties/>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Checked" id="spxg_ru:bacini_drenaggio_fognature_punti49501" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:bacini_drenaggio_fognature_punti&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Fognature punti">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Checked" id="spxg_ru:bacini_drenaggio_fognature_linee23529" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:bacini_drenaggio_fognature_linee&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Fognature linee">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Checked" id="spxg_ru:bacini_drenaggio_fognature_aree50344" source="crs=EPSG:3003&amp;format=image/png&amp;layers=ru:bacini_drenaggio_fognature_aree&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Fognature aree">
+        <customproperties/>
+      </layer-tree-layer>
+    </layer-tree-group>
+  </layer-tree-group>
+  <relations/>
+  <mapcanvas>
+    <units>meters</units>
+    <extent>
+      <xmin>1657419</xmin>
+      <ymin>4852076</ymin>
+      <xmax>1676400</xmax>
+      <ymax>4869227</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <projections>0</projections>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+        <srsid>968</srsid>
+        <srid>3003</srid>
+        <authid>EPSG:3003</authid>
+        <description>Monte Mario / Italy zone 1</description>
+        <projectionacronym>tmerc</projectionacronym>
+        <ellipsoidacronym>intl</ellipsoidacronym>
+        <geographicflag>false</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <layer_coordinate_transform_info/>
+  </mapcanvas>
+  <layer-tree-canvas>
+    <custom-order enabled="1">
+      <item>spxg_ru:base_autostrade97836</item>
+      <item>spxg_ru:base_ferrovie79645</item>
+      <item>spxg_ru:base_aree_urbanizzate31962</item>
+      <item>spxg_ru:base_ctr10k_toponomastica36557</item>
+      <item>spxg_ru:base_ctr10k_quote87127</item>
+      <item>spxg_ru:base_ctr10k_orografia36770</item>
+      <item>spxg_ru:base_ctr10k_elem_lineari18837</item>
+      <item>spxg_ru:base_ctr2k_toponomastica42219</item>
+      <item>spxg_ru:base_ctr1k_centro_antico99618</item>
+      <item>spxg_ru:base_ctr2k_edifici56962</item>
+      <item>spxg_ru:base_ctr2k_edifici_esterni25871</item>
+      <item>spxg_ru:base_ctr2k_orografia21797</item>
+      <item>spxg_ru:base_ctr2k_elem_lineari23498</item>
+      <item>spxg_ru:base_ctr2k_elem_lineari_esterni49812</item>
+      <item>spxg_comunepo:stradario_civici_definitivi11383</item>
+      <item>spxg_ru:bacini_drenaggio_fognature_punti49501</item>
+      <item>spxg_ru:bacini_drenaggio_fognature_linee23529</item>
+      <item>spxg_ru:bacini_drenaggio_fognature_aree50344</item>
+    </custom-order>
+  </layer-tree-canvas>
+  <legend updateDrawingOrder="false">
+    <legendgroup open="false" checked="Qt::Unchecked" name="Elementi della Carta Tecnica Regionale">
+      <legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Autostrade" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_autostrade97836" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="1" open="false" checked="Qt::Unchecked" name="Ferrovie" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_ferrovie79645" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="2" open="false" checked="Qt::Unchecked" name="Aree urbanizzate" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_aree_urbanizzate31962" visible="0"/>
+        </filegroup>
+      </legendlayer>
+    </legendgroup>
+    <legendgroup open="true" checked="Qt::Unchecked" name="Cartografia">
+      <legendlayer drawingOrder="3" open="false" checked="Qt::Unchecked" name="CTR 1:10.000 toponomastica" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_ctr10k_toponomastica36557" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="4" open="false" checked="Qt::Unchecked" name="CTR 1:10.000 quote" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_ctr10k_quote87127" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="5" open="false" checked="Qt::Unchecked" name="CTR 1:10.000 orografia" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_ctr10k_orografia36770" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="6" open="false" checked="Qt::Unchecked" name="CTR 1:10.000 elementi lineari" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_ctr10k_elem_lineari18837" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="7" open="false" checked="Qt::Unchecked" name="CTR 1:2.000 toponomastica" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_ctr2k_toponomastica42219" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="8" open="false" checked="Qt::Unchecked" name="Centro antico" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_ctr1k_centro_antico99618" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="9" open="false" checked="Qt::Unchecked" name="CTR 1:2.000 edifici" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_ctr2k_edifici56962" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="10" open="false" checked="Qt::Unchecked" name="CTR 1:2.000 edifici esterni al centro antico" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_ctr2k_edifici_esterni25871" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="11" open="false" checked="Qt::Unchecked" name="CTR 1:2.000 orografia" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_ctr2k_orografia21797" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="12" open="false" checked="Qt::Unchecked" name="CTR 1:2.000 elementi lineari" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_ctr2k_elem_lineari23498" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="13" open="false" checked="Qt::Unchecked" name="CTR 1:2.000 elementi lineari esterni al centro antico" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:base_ctr2k_elem_lineari_esterni49812" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="14" open="false" checked="Qt::Unchecked" name="Numeri civici defiitivi" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:stradario_civici_definitivi11383" visible="0"/>
+        </filegroup>
+      </legendlayer>
+    </legendgroup>
+    <legendgroup open="true" checked="Qt::Checked" name="Rete fognature">
+      <legendlayer drawingOrder="15" open="false" checked="Qt::Checked" name="Fognature punti" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:bacini_drenaggio_fognature_punti49501" visible="1"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="16" open="false" checked="Qt::Checked" name="Fognature linee" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:bacini_drenaggio_fognature_linee23529" visible="1"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="17" open="false" checked="Qt::Checked" name="Fognature aree" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_ru:bacini_drenaggio_fognature_aree50344" visible="1"/>
+        </filegroup>
+      </legendlayer>
+    </legendgroup>
+  </legend>
+  <projectlayers>
+    <maplayer minimumScale="0" maximumScale="1010" type="raster" hasScaleBasedVisibilityFlag="1">
+      <extent>
+        <xmin>1661889.30000000004656613</xmin>
+        <ymin>4853713.07748339045792818</ymin>
+        <xmax>1672570.38999999989755452</xmax>
+        <ymax>4868326.82083087973296642</ymax>
+      </extent>
+      <id>spxg_comunepo:stradario_civici_definitivi11383</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:stradario_civici_definitivi&amp;styles=ru_base_civici&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Numeri civici defiitivi</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1662307.982421875</xmin>
+        <ymin>4854512.98046875</ymin>
+        <xmax>1672342.10595703125</xmax>
+        <ymax>4865632.4296875</ymax>
+      </extent>
+      <id>spxg_ru:bacini_drenaggio_fognature_aree50344</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:bacini_drenaggio_fognature_aree&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Fognature aree</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="qgis2web/Visible" value="true"/>
+      </customproperties>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1662251.56053198757581413</xmin>
+        <ymin>4854606.97021484375</ymin>
+        <xmax>1672333.89046069653704762</xmax>
+        <ymax>4865628.44463540427386761</ymax>
+      </extent>
+      <id>spxg_ru:bacini_drenaggio_fognature_linee23529</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:bacini_drenaggio_fognature_linee&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Fognature linee</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="qgis2web/Visible" value="true"/>
+      </customproperties>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1662353.25</xmin>
+        <ymin>4854606.96875</ymin>
+        <xmax>1671820.94861473678611219</xmax>
+        <ymax>4864448.34574706293642521</ymax>
+      </extent>
+      <id>spxg_ru:bacini_drenaggio_fognature_punti49501</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:bacini_drenaggio_fognature_punti&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Fognature punti</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="qgis2web/Visible" value="true"/>
+      </customproperties>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1653682.75</xmin>
+        <ymin>4851517.5</ymin>
+        <xmax>1680955</xmax>
+        <ymax>4874234</ymax>
+      </extent>
+      <id>spxg_ru:base_aree_urbanizzate31962</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_aree_urbanizzate&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Aree urbanizzate</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1653823.13999999989755452</xmin>
+        <ymin>4851825.44000000040978193</ymin>
+        <xmax>1678369.31000000005587935</xmax>
+        <ymax>4874177.91000000014901161</ymax>
+      </extent>
+      <id>spxg_ru:base_autostrade97836</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_autostrade&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Autostrade</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1653623.5</xmin>
+        <ymin>4851354.5</ymin>
+        <xmax>1680951.875</xmax>
+        <ymax>4874240.5</ymax>
+      </extent>
+      <id>spxg_ru:base_ctr10k_elem_lineari18837</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr10k_elem_lineari&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>CTR 1:10.000 elementi lineari</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1653625.5</xmin>
+        <ymin>4851353.5</ymin>
+        <xmax>1680952.625</xmax>
+        <ymax>4874240.5</ymax>
+      </extent>
+      <id>spxg_ru:base_ctr10k_orografia36770</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr10k_orografia&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>CTR 1:10.000 orografia</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1653399.35997000010684133</xmin>
+        <ymin>4845815.67996999993920326</ymin>
+        <xmax>1681058.36997999995946884</xmax>
+        <ymax>4890860.99002999998629093</ymax>
+      </extent>
+      <id>spxg_ru:base_ctr10k_quote87127</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr10k_quote&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>CTR 1:10.000 quote</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1653645.98996999999508262</xmin>
+        <ymin>4851412.28002000041306019</ymin>
+        <xmax>1680840.95998000004328787</xmax>
+        <ymax>4874150.51996999979019165</ymax>
+      </extent>
+      <id>spxg_ru:base_ctr10k_toponomastica36557</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr10k_toponomastica&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>CTR 1:10.000 toponomastica</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1667847.31000000005587935</xmin>
+        <ymin>4860213.66999999992549419</ymin>
+        <xmax>1669083.92000000132247806</xmax>
+        <ymax>4861285.58626318164169788</ymax>
+      </extent>
+      <id>spxg_ru:base_ctr1k_centro_antico99618</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr1k_centro_antico&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Centro antico</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1661600</xmin>
+        <ymin>4852800</ymin>
+        <xmax>1673580.22999999998137355</xmax>
+        <ymax>4868400</ymax>
+      </extent>
+      <id>spxg_ru:base_ctr2k_edifici56962</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr2k_edifici&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>CTR 1:2.000 edifici</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1661600</xmin>
+        <ymin>4852800</ymin>
+        <xmax>1673580.22999999998137355</xmax>
+        <ymax>4868400</ymax>
+      </extent>
+      <id>spxg_ru:base_ctr2k_edifici_esterni25871</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr2k_edifici_esterni&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>CTR 1:2.000 edifici esterni al centro antico</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1661600</xmin>
+        <ymin>4852800</ymin>
+        <xmax>1674255.05000000004656613</xmax>
+        <ymax>4868400</ymax>
+      </extent>
+      <id>spxg_ru:base_ctr2k_elem_lineari23498</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr2k_elem_lineari&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>CTR 1:2.000 elementi lineari</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1661600</xmin>
+        <ymin>4852800</ymin>
+        <xmax>1674255.05000000004656613</xmax>
+        <ymax>4868400</ymax>
+      </extent>
+      <id>spxg_ru:base_ctr2k_elem_lineari_esterni49812</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr2k_elem_lineari_esterni&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>CTR 1:2.000 elementi lineari esterni al centro antico</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1661600</xmin>
+        <ymin>4852800</ymin>
+        <xmax>1674263.93999999994412065</xmax>
+        <ymax>4868400</ymax>
+      </extent>
+      <id>spxg_ru:base_ctr2k_orografia21797</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr2k_orografia&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>CTR 1:2.000 orografia</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1661600.27001000009477139</xmin>
+        <ymin>4852801.05999999959021807</ymin>
+        <xmax>1674229.06000000005587935</xmax>
+        <ymax>4868396.34001000039279461</ymax>
+      </extent>
+      <id>spxg_ru:base_ctr2k_toponomastica42219</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ctr2k_toponomastica&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>CTR 1:2.000 toponomastica</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1653642.75</xmin>
+        <ymin>4851945.41999999992549419</ymin>
+        <xmax>1679991.94999999995343387</xmax>
+        <ymax>4874016.78000000026077032</ymax>
+      </extent>
+      <id>spxg_ru:base_ferrovie79645</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=ru:base_ferrovie&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Ferrovie</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+  </projectlayers>
+  <properties>
+    <Measurement>
+      <DistanceUnits type="QString">meters</DistanceUnits>
+      <AreaUnits type="QString"></AreaUnits>
+    </Measurement>
+    <SemiAutomaticClassificationPlugin>
+      <bandSetPresent type="QString">No</bandSetPresent>
+      <bndSetWvLn type="QString">[]</bndSetWvLn>
+      <bndSetMultF type="QString">[]</bndSetMultF>
+      <bndSetUnit type="QString">band number</bndSetUnit>
+      <bandSet type="QString">[]</bandSet>
+      <bndSetAddF type="QString">[]</bndSetAddF>
+    </SemiAutomaticClassificationPlugin>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <qgis2web>
+      <Maxzoomlevel type="QString">28</Maxzoomlevel>
+      <Showpopupsonhover type="bool">true</Showpopupsonhover>
+      <Basemaps type="QString">OSM B&amp;W</Basemaps>
+      <Exportfolder type="QString">/Users/TeoPro/Desktop/prova</Exportfolder>
+      <mapFormat type="QString">openlayers</mapFormat>
+      <Precision type="QString">maintain</Precision>
+      <Measuretool type="QString">None</Measuretool>
+      <Usedebuglibraries type="bool">false</Usedebuglibraries>
+      <Baselayer type="QStringList">
+        <value>OSM B&amp;W</value>
+      </Baselayer>
+      <Addlayerslist type="QString">Expanded</Addlayerslist>
+      <MatchprojectCRS type="bool">false</MatchprojectCRS>
+      <Highlightonhover type="bool">false</Highlightonhover>
+      <Addaddresssearch type="bool">false</Addaddresssearch>
+      <Minzoomlevel type="QString">1</Minzoomlevel>
+      <Geolocateuser type="bool">false</Geolocateuser>
+      <Exporter type="QString">folder</Exporter>
+      <MinifyGeoJSONfiles type="bool">false</MinifyGeoJSONfiles>
+      <Extent type="QString">Canvas extent</Extent>
+      <Restricttoextent type="bool">false</Restricttoextent>
+      <Template type="QString">full-screen</Template>
+      <Mappinglibrarylocation type="QString">Local</Mappinglibrarylocation>
+      <Searchlayer type="QString"></Searchlayer>
+      <Layersearch type="QString">None</Layersearch>
+    </qgis2web>
+    <PositionPrecision>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+      <Automatic type="bool">true</Automatic>
+    </PositionPrecision>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+  </properties>
+  <visibility-presets/>
+</qgis>
